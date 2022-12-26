@@ -22,4 +22,5 @@
 - read analog data
 - potentiometer blink leds
 - dimmable led with potentiometer
+- serial input
 
