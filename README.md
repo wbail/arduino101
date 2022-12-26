@@ -20,4 +20,5 @@
 - blink binary numbers
 - blink dim
 - read analog data
+- potentiometer blink leds
 
