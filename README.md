@@ -24,4 +24,5 @@
 - dimmable led with potentiometer
 - serial input
 - color picker
+- blink rgb led
 
