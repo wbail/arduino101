@@ -26,4 +26,5 @@
 - color picker
 - blink rgb led
 - active buzzer
+- passive buzzer
 
