@@ -25,4 +25,5 @@
 - serial input
 - color picker
 - blink rgb led
+- active buzzer
 
